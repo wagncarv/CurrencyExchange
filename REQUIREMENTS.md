@@ -32,7 +32,6 @@ disponibilizar um endpoint para consulta das transações realizadas por um usu�
 1. Deve-se adicionar a esse arquivo explicações sobre como rodar a aplicação, e uma apresentação sobre o
 projeto: propósito, features, motivação das principais escolhas de tecnologias, e separação das camadas;
 1. Todo o código deve ser em inglês;
-1. Disponibilizar o código apenas nesse repositório, sem nenhuma cópia pública, para evitar plágio;
 
 ## Itens desejáveis
 * Logs

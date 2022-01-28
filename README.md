@@ -1,6 +1,5 @@
 # 💱 Currency exchange challenge
 
-> This is a challenge by Jaya
 
 This project is a Rest API capable of converting between two provided currencies
 using updated rates from an external service. We consult the `https://api.exchangeratesapi.io/latest?base=EUR` service, which provides updated currency exchange rates.
@@ -54,14 +53,6 @@ To run the tests, enter the command
 ### ⚙️ Features
 
 The available features are: **create a new transaction**, **display all transactions performed**, **display all transactions performed by a specific user**.
-
-### ℹ️  Explanatory note on CI/CD & Deploy
-
-In order to create the CI/CD pipeline configuration and deploy the application, the `Bitbucket` platform needs the user to have **admin** permission.
-About this, I requested information from the recruiter **IMPROVING**, who instructed me to write this note to explain the non-completion of the CI/CD and deploy steps.
-
-Regards,
-Wagner Carvalho
 
 ### 🌐 Endpoints
 
@@ -143,12 +134,6 @@ The project has three main layers:
 
 - Web: Responsible for API routes, views and error handling of routes.
 
-### 🎁 Expression of gratitude
-
-Thanks to Jaya for this opportunity to participate in this selection process. 📢
-> This is a challenge by Jaya
-
 **Developer** [Wagner Patrick de Carvalho](https://github.com/wagncarv)
 
-⌨️ By [Wagner Patrick de Carvalho](https://github.com/wagncarv) 😊# jaya_challenge
-# CurrencyExchange
+⌨️ By [Wagner Patrick de Carvalho](https://github.com/wagncarv) 😊# elixir_phoenix
