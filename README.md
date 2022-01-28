@@ -1,4 +1,4 @@
-# 💱 Currency exchange challenge
+# 💱 Currency exchange Project
 
 
 This project is a Rest API capable of converting between two provided currencies
