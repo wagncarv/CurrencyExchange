@@ -14,9 +14,9 @@ To run the project, you need to have:
 
 ### 🔧 Project installation
 
-- Download the project from  `Bitbucket`:
+- Download the project from `Github`:
 `
-    git clone https://wagncarv@bitbucket.org/recrutamento_jya_dotnet/recrutamento-conversor-wagncarv_gmail.com.git
+    git clone https://github.com/wagncarv/CurrencyExchange.git
 `
 - Download the dependencies:
 Inside the project folder run:
